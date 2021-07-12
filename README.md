@@ -1,4 +1,4 @@
 # openCV_projects-
 
-Run these codes in your jupyter notebook and enjoy🙌
+Run these codes on python and enjoy🙌
 
